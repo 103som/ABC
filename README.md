@@ -1,5 +1,6 @@
 # Ход работы смотреть в файле Samoylov Pavel.pdf
 P.S.
+
 code.c - Исходный код программы на C;
 
 firstAssemblyCodeVersion.s - Ассемблированная программа на C; 
